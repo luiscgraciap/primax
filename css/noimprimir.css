@@ -1,0 +1,4 @@
+.noimprimir{visibility:hidden}
+
+@media print{body {margin-top:0 !important;}}
+@media print {@page {size:letter; margin:0cm;}}

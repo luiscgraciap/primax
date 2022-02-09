@@ -1,0 +1,24 @@
+@font-face {font-family:"ArlNrrw";
+			font-style:normal;
+			font-weight:normal;
+			src:local("?"),
+			url(../fuentes/ArlNrrw.woff) format("woff"),
+			url(../fuentes/ArlNrrw.ttf) format("truetype")}
+@font-face {font-family:"Arlrdbd";
+			font-style:normal;
+			font-weight:bold;
+			src:local("?"),
+			url(../fuentes/Arlrdbd.woff) format("woff"),
+			url(../fuentes/Arlrdbd.ttf) format("truetype")}
+@font-face {font-family:"Arlrdlt";
+			font-style:normal;
+			font-weight:bold;
+			src:local("?"),
+			url(../fuentes/Arlrdlt.woff) format("woff"),
+			url(../fuentes/Arlrdlt.ttf) format("truetype")}
+@font-face {font-family:"SCHLBKB";
+			font-style:normal;
+			font-weight:bold;
+			src:local("?"),
+			url(../fuentes/SCHLBKB.woff) format("woff"),
+			url(../fuentes/SCHLBKB.ttf) format("truetype")}

@@ -1,0 +1,50 @@
+<html>
+<head>
+<link rel="SHORTCUT ICON" href="../../../../imagenes/iconoPRIMAX1.ico">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="../../../../css/fuentes.css">
+<style>
+  body,html {	color:rgba(51,255,189,1);
+		background-color:rgba(255,255,255,1);
+		background:url(../../../../imagenes/primax.svg) no-repeat center center;
+		background-size:auto 100%;
+		opacity:1.0;
+		text-align:center}
+  input {	background-color:rgba(0,0,0,0.1);
+		color:rgba(40,40,40,1);
+		border:3px solid rgba(0,0,0,0.5);
+		border-radius:10px;
+		text-align:center;
+		font-family:Arlrdbd}
+  input:focus	{background-color:rgba(255,112,0,0.33)}
+  td {		background-color:rgba(130,130,130,0);
+		color:rgba(40,40,40,1);
+		border:0px solid rgba(0,128,0,1);
+		border-radius:30px;
+		text-align:center;
+		font-family:Arlrdbd}
+</style>
+</head>
+<body>
+<script type="text/javascript">document.write('<table height="' + window.innerHeight*0.975 + '" style="width:100%; background-color:rgba(255,255,255,0); margin-left:auto; margin-right:auto" border="0" cellpadding="0" cellspacing="0">')</script>
+	<tr style="background-color:rgba(240,0,0,0); height:33%">
+	  <td></td>
+	</tr>
+	<tr style="background-color:rgba(0,240,0,0); height:34%">
+	  <td>
+		<span style="height:75px; font-size:50px; font-weight:bold">CONSULTAR UN CONSECUTIVO</span><br><br><br><br>
+		<form action="consultar.php" method="post">
+		<span style="font-family:SCHLBKB; font-size:50px; color:red">N&#186;</span>
+		<input style="font-family:SCHLBKB; height:50px; font-size:50px; color:red" name="consec" id="consec" size="4" maxlength="4" type="text"
+		pattern="^(?:[0-9]{4})$" autocomplete="off" autofocus required
+		title="Ingrese los cuatro numeros del consecutivo que quiere consultar/imprimir"><br>
+		<input style="height:70px; font-size:24px; background-color:rgba(0,0,0,0); color:rgba(0,0,0,0); border:0px" type="submit" value="CONSULTAR">
+		</form>
+	  </td>
+	</tr>
+	<tr style="background-color:rgba(0,0,240,0); height:33%">
+	  <td></td>
+	</tr>
+</table>
+</body>
+</html>
