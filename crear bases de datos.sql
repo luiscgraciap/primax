@@ -1,0 +1,11 @@
+CREATE DATABASE soluci15_primax_bucaramanga;
+CREATE DATABASE soluci15_primax_buenaventura;
+CREATE DATABASE soluci15_primax_cartagena;
+CREATE DATABASE soluci15_primax_cartago;
+CREATE DATABASE soluci15_primax_galapa;
+CREATE DATABASE soluci15_primax_gualanday;
+CREATE DATABASE soluci15_primax_la_dorada;
+CREATE DATABASE soluci15_primax_mancilla;
+CREATE DATABASE soluci15_primax_medellin;
+CREATE DATABASE soluci15_primax_puente_aranda;
+CREATE DATABASE soluci15_primax_yumbo;
